@@ -1,0 +1,1459 @@
+{
+  "graph": {
+    "entities": [
+      {
+        "id": "nexus",
+        "name": "Nexus",
+        "entity_type": "CONCEPT",
+        "description": "Entity identified in context: Nexus",
+        "properties": {},
+        "weight": 3.0,
+        "source_chunks": [
+          "enterprise_brief_chunk_0",
+          "enterprise_brief_chunk_1",
+          "enterprise_brief_chunk_2",
+          "enterprise_brief_chunk_3"
+        ]
+      },
+      {
+        "id": "graphrag",
+        "name": "GraphRAG",
+        "entity_type": "TECHNOLOGY",
+        "description": "Entity identified in context: GraphRAG",
+        "properties": {},
+        "weight": 3.0,
+        "source_chunks": [
+          "enterprise_brief_chunk_0",
+          "enterprise_brief_chunk_1",
+          "enterprise_brief_chunk_2",
+          "enterprise_brief_chunk_3"
+        ]
+      },
+      {
+        "id": "python",
+        "name": "Python",
+        "entity_type": "TECHNOLOGY",
+        "description": "Entity identified in context: Python",
+        "properties": {},
+        "weight": 1.0,
+        "source_chunks": [
+          "enterprise_brief_chunk_0"
+        ]
+      },
+      {
+        "id": "nitesh_beniwal",
+        "name": "Nitesh Beniwal",
+        "entity_type": "PERSON",
+        "description": "Entity identified in context: Nitesh Beniwal",
+        "properties": {},
+        "weight": 1.0,
+        "source_chunks": [
+          "enterprise_brief_chunk_0"
+        ]
+      },
+      {
+        "id": "jaipur",
+        "name": "Jaipur",
+        "entity_type": "LOCATION",
+        "description": "Entity identified in context: Jaipur",
+        "properties": {},
+        "weight": 1.0,
+        "source_chunks": [
+          "enterprise_brief_chunk_0"
+        ]
+      },
+      {
+        "id": "rajasthan",
+        "name": "Rajasthan",
+        "entity_type": "LOCATION",
+        "description": "Entity identified in context: Rajasthan",
+        "properties": {},
+        "weight": 1.0,
+        "source_chunks": [
+          "enterprise_brief_chunk_0"
+        ]
+      },
+      {
+        "id": "networkx",
+        "name": "NetworkX",
+        "entity_type": "TECHNOLOGY",
+        "description": "Entity identified in context: NetworkX",
+        "properties": {},
+        "weight": 1.0,
+        "source_chunks": [
+          "enterprise_brief_chunk_0"
+        ]
+      },
+      {
+        "id": "numpy",
+        "name": "NumPy",
+        "entity_type": "TECHNOLOGY",
+        "description": "Entity identified in context: NumPy",
+        "properties": {},
+        "weight": 1.0,
+        "source_chunks": [
+          "enterprise_brief_chunk_0"
+        ]
+      },
+      {
+        "id": "scikit",
+        "name": "Scikit",
+        "entity_type": "CONCEPT",
+        "description": "Entity identified in context: Scikit",
+        "properties": {},
+        "weight": 1.0,
+        "source_chunks": [
+          "enterprise_brief_chunk_0"
+        ]
+      },
+      {
+        "id": "generative_ai",
+        "name": "Generative AI",
+        "entity_type": "CONCEPT",
+        "description": "Entity identified in context: Generative AI",
+        "properties": {},
+        "weight": 1.0,
+        "source_chunks": [
+          "enterprise_brief_chunk_0"
+        ]
+      },
+      {
+        "id": "ai",
+        "name": "AI",
+        "entity_type": "CONCEPT",
+        "description": "Technical acronym or standard: AI",
+        "properties": {},
+        "weight": 1.5,
+        "source_chunks": [
+          "enterprise_brief_chunk_0",
+          "enterprise_brief_chunk_3"
+        ]
+      },
+      {
+        "id": "scikit_learn",
+        "name": "Scikit-learn",
+        "entity_type": "TECHNOLOGY",
+        "description": "Technology or tool: Scikit-learn",
+        "properties": {},
+        "weight": 1.0,
+        "source_chunks": [
+          "enterprise_brief_chunk_0"
+        ]
+      },
+      {
+        "id": "vector",
+        "name": "Vector",
+        "entity_type": "TECHNOLOGY",
+        "description": "Technology or tool: Vector",
+        "properties": {},
+        "weight": 1.0,
+        "source_chunks": [
+          "enterprise_brief_chunk_0"
+        ]
+      },
+      {
+        "id": "google_gemini",
+        "name": "Google Gemini",
+        "entity_type": "ORGANIZATION",
+        "description": "Entity identified in context: Google Gemini",
+        "properties": {},
+        "weight": 1.0,
+        "source_chunks": [
+          "enterprise_brief_chunk_1"
+        ]
+      },
+      {
+        "id": "flash_llm",
+        "name": "Flash LLM",
+        "entity_type": "CONCEPT",
+        "description": "Entity identified in context: Flash LLM",
+        "properties": {},
+        "weight": 1.0,
+        "source_chunks": [
+          "enterprise_brief_chunk_1"
+        ]
+      },
+      {
+        "id": "llm",
+        "name": "LLM",
+        "entity_type": "TECHNOLOGY",
+        "description": "Technical acronym or standard: LLM",
+        "properties": {},
+        "weight": 1.0,
+        "source_chunks": [
+          "enterprise_brief_chunk_1"
+        ]
+      },
+      {
+        "id": "gemini",
+        "name": "Gemini",
+        "entity_type": "TECHNOLOGY",
+        "description": "Technology or tool: Gemini",
+        "properties": {},
+        "weight": 1.0,
+        "source_chunks": [
+          "enterprise_brief_chunk_1"
+        ]
+      },
+      {
+        "id": "louvain",
+        "name": "Louvain",
+        "entity_type": "CONCEPT",
+        "description": "Entity identified in context: Louvain",
+        "properties": {},
+        "weight": 1.0,
+        "source_chunks": [
+          "enterprise_brief_chunk_1"
+        ]
+      },
+      {
+        "id": "local_retrieval",
+        "name": "Local Retrieval",
+        "entity_type": "PERSON",
+        "description": "Entity identified in context: Local Retrieval",
+        "properties": {},
+        "weight": 1.0,
+        "source_chunks": [
+          "enterprise_brief_chunk_2"
+        ]
+      },
+      {
+        "id": "focuses",
+        "name": "Focuses",
+        "entity_type": "CONCEPT",
+        "description": "Entity identified in context: Focuses",
+        "properties": {},
+        "weight": 1.0,
+        "source_chunks": [
+          "enterprise_brief_chunk_2"
+        ]
+      },
+      {
+        "id": "global_retrieval",
+        "name": "Global Retrieval",
+        "entity_type": "PERSON",
+        "description": "Entity identified in context: Global Retrieval",
+        "properties": {},
+        "weight": 1.0,
+        "source_chunks": [
+          "enterprise_brief_chunk_2"
+        ]
+      },
+      {
+        "id": "synthesizes",
+        "name": "Synthesizes",
+        "entity_type": "CONCEPT",
+        "description": "Entity identified in context: Synthesizes",
+        "properties": {},
+        "weight": 1.0,
+        "source_chunks": [
+          "enterprise_brief_chunk_2"
+        ]
+      },
+      {
+        "id": "hybrid_retrieval",
+        "name": "Hybrid Retrieval",
+        "entity_type": "PERSON",
+        "description": "Entity identified in context: Hybrid Retrieval",
+        "properties": {},
+        "weight": 1.0,
+        "source_chunks": [
+          "enterprise_brief_chunk_2"
+        ]
+      },
+      {
+        "id": "uses_reciprocal_rank_fusion",
+        "name": "Uses Reciprocal Rank Fusion",
+        "entity_type": "CONCEPT",
+        "description": "Entity identified in context: Uses Reciprocal Rank Fusion",
+        "properties": {},
+        "weight": 1.0,
+        "source_chunks": [
+          "enterprise_brief_chunk_2"
+        ]
+      },
+      {
+        "id": "rrf",
+        "name": "RRF",
+        "entity_type": "CONCEPT",
+        "description": "Entity identified in context: RRF",
+        "properties": {},
+        "weight": 1.0,
+        "source_chunks": [
+          "enterprise_brief_chunk_2"
+        ]
+      },
+      {
+        "id": "bm25",
+        "name": "BM25",
+        "entity_type": "CONCEPT",
+        "description": "Entity identified in context: BM25",
+        "properties": {},
+        "weight": 1.0,
+        "source_chunks": [
+          "enterprise_brief_chunk_2"
+        ]
+      },
+      {
+        "id": "evalguard_ai",
+        "name": "EvalGuard AI",
+        "entity_type": "CONCEPT",
+        "description": "Entity identified in context: EvalGuard AI",
+        "properties": {},
+        "weight": 1.0,
+        "source_chunks": [
+          "enterprise_brief_chunk_3"
+        ]
+      },
+      {
+        "id": "rag",
+        "name": "RAG",
+        "entity_type": "TECHNOLOGY",
+        "description": "Entity identified in context: RAG",
+        "properties": {},
+        "weight": 1.0,
+        "source_chunks": [
+          "enterprise_brief_chunk_3"
+        ]
+      },
+      {
+        "id": "synthotab",
+        "name": "SynthoTab",
+        "entity_type": "CONCEPT",
+        "description": "Entity identified in context: SynthoTab",
+        "properties": {},
+        "weight": 1.0,
+        "source_chunks": [
+          "enterprise_brief_chunk_3"
+        ]
+      },
+      {
+        "id": "differential_privacy",
+        "name": "Differential Privacy",
+        "entity_type": "PERSON",
+        "description": "Entity identified in context: Differential Privacy",
+        "properties": {},
+        "weight": 1.0,
+        "source_chunks": [
+          "enterprise_brief_chunk_3"
+        ]
+      },
+      {
+        "id": "html",
+        "name": "HTML",
+        "entity_type": "TECHNOLOGY",
+        "description": "Entity identified in context: HTML",
+        "properties": {},
+        "weight": 1.0,
+        "source_chunks": [
+          "enterprise_brief_chunk_3"
+        ]
+      }
+    ],
+    "relationships": [
+      {
+        "id": "nexus--is_a-->python",
+        "source": "Nexus",
+        "target": "Python",
+        "relation_type": "IS_A",
+        "description": "Nexus is an Python.",
+        "weight": 1.5,
+        "evidence_chunks": [
+          "enterprise_brief_chunk_0"
+        ]
+      },
+      {
+        "id": "graphrag--is_a-->python",
+        "source": "GraphRAG",
+        "target": "Python",
+        "relation_type": "IS_A",
+        "description": "GraphRAG is an Python.",
+        "weight": 1.5,
+        "evidence_chunks": [
+          "enterprise_brief_chunk_0"
+        ]
+      },
+      {
+        "id": "nitesh_beniwal--develops-->graphrag",
+        "source": "Nitesh Beniwal",
+        "target": "GraphRAG",
+        "relation_type": "DEVELOPS",
+        "description": "Nitesh Beniwal developed by GraphRAG.",
+        "weight": 1.5,
+        "evidence_chunks": [
+          "enterprise_brief_chunk_0"
+        ]
+      },
+      {
+        "id": "nitesh_beniwal--develops-->python",
+        "source": "Nitesh Beniwal",
+        "target": "Python",
+        "relation_type": "DEVELOPS",
+        "description": "Nitesh Beniwal developed by Python.",
+        "weight": 1.5,
+        "evidence_chunks": [
+          "enterprise_brief_chunk_0"
+        ]
+      },
+      {
+        "id": "jaipur--develops-->python",
+        "source": "Jaipur",
+        "target": "Python",
+        "relation_type": "DEVELOPS",
+        "description": "Jaipur developed by Python.",
+        "weight": 1.5,
+        "evidence_chunks": [
+          "enterprise_brief_chunk_0"
+        ]
+      },
+      {
+        "id": "hybrid_retrieval--uses-->rrf",
+        "source": "Hybrid Retrieval",
+        "target": "RRF",
+        "relation_type": "USES",
+        "description": "Hybrid Retrieval Uses RRF.",
+        "weight": 1.5,
+        "evidence_chunks": [
+          "enterprise_brief_chunk_2"
+        ]
+      },
+      {
+        "id": "nexus--integrates_with-->evalguard_ai",
+        "source": "Nexus",
+        "target": "EvalGuard AI",
+        "relation_type": "INTEGRATES_WITH",
+        "description": "Nexus integrates with EvalGuard AI.",
+        "weight": 1.5,
+        "evidence_chunks": [
+          "enterprise_brief_chunk_3"
+        ]
+      },
+      {
+        "id": "graphrag--integrates_with-->evalguard_ai",
+        "source": "GraphRAG",
+        "target": "EvalGuard AI",
+        "relation_type": "INTEGRATES_WITH",
+        "description": "GraphRAG integrates with EvalGuard AI.",
+        "weight": 1.5,
+        "evidence_chunks": [
+          "enterprise_brief_chunk_3"
+        ]
+      },
+      {
+        "id": "graphrag--integrates_with-->ai",
+        "source": "GraphRAG",
+        "target": "AI",
+        "relation_type": "INTEGRATES_WITH",
+        "description": "GraphRAG integrates with AI.",
+        "weight": 1.5,
+        "evidence_chunks": [
+          "enterprise_brief_chunk_3"
+        ]
+      },
+      {
+        "id": "nexus--associated_with-->graphrag",
+        "source": "Nexus",
+        "target": "GraphRAG",
+        "relation_type": "ASSOCIATED_WITH",
+        "description": "Nexus co-occurs with GraphRAG in document context.",
+        "weight": 0.8,
+        "evidence_chunks": [
+          "enterprise_brief_chunk_0"
+        ]
+      },
+      {
+        "id": "nexus--associated_with-->nitesh_beniwal",
+        "source": "Nexus",
+        "target": "Nitesh Beniwal",
+        "relation_type": "ASSOCIATED_WITH",
+        "description": "Nexus co-occurs with Nitesh Beniwal in document context.",
+        "weight": 0.8,
+        "evidence_chunks": [
+          "enterprise_brief_chunk_0"
+        ]
+      },
+      {
+        "id": "graphrag--associated_with-->jaipur",
+        "source": "GraphRAG",
+        "target": "Jaipur",
+        "relation_type": "ASSOCIATED_WITH",
+        "description": "GraphRAG co-occurs with Jaipur in document context.",
+        "weight": 0.8,
+        "evidence_chunks": [
+          "enterprise_brief_chunk_0"
+        ]
+      },
+      {
+        "id": "python--associated_with-->rajasthan",
+        "source": "Python",
+        "target": "Rajasthan",
+        "relation_type": "ASSOCIATED_WITH",
+        "description": "Python co-occurs with Rajasthan in document context.",
+        "weight": 0.8,
+        "evidence_chunks": [
+          "enterprise_brief_chunk_0"
+        ]
+      },
+      {
+        "id": "nitesh_beniwal--associated_with-->jaipur",
+        "source": "Nitesh Beniwal",
+        "target": "Jaipur",
+        "relation_type": "ASSOCIATED_WITH",
+        "description": "Nitesh Beniwal co-occurs with Jaipur in document context.",
+        "weight": 0.8,
+        "evidence_chunks": [
+          "enterprise_brief_chunk_0"
+        ]
+      },
+      {
+        "id": "nitesh_beniwal--associated_with-->rajasthan",
+        "source": "Nitesh Beniwal",
+        "target": "Rajasthan",
+        "relation_type": "ASSOCIATED_WITH",
+        "description": "Nitesh Beniwal co-occurs with Rajasthan in document context.",
+        "weight": 0.8,
+        "evidence_chunks": [
+          "enterprise_brief_chunk_0"
+        ]
+      },
+      {
+        "id": "nitesh_beniwal--associated_with-->networkx",
+        "source": "Nitesh Beniwal",
+        "target": "NetworkX",
+        "relation_type": "ASSOCIATED_WITH",
+        "description": "Nitesh Beniwal co-occurs with NetworkX in document context.",
+        "weight": 0.8,
+        "evidence_chunks": [
+          "enterprise_brief_chunk_0"
+        ]
+      },
+      {
+        "id": "jaipur--associated_with-->rajasthan",
+        "source": "Jaipur",
+        "target": "Rajasthan",
+        "relation_type": "ASSOCIATED_WITH",
+        "description": "Jaipur co-occurs with Rajasthan in document context.",
+        "weight": 0.8,
+        "evidence_chunks": [
+          "enterprise_brief_chunk_0"
+        ]
+      },
+      {
+        "id": "jaipur--associated_with-->networkx",
+        "source": "Jaipur",
+        "target": "NetworkX",
+        "relation_type": "ASSOCIATED_WITH",
+        "description": "Jaipur co-occurs with NetworkX in document context.",
+        "weight": 0.8,
+        "evidence_chunks": [
+          "enterprise_brief_chunk_0"
+        ]
+      },
+      {
+        "id": "jaipur--associated_with-->numpy",
+        "source": "Jaipur",
+        "target": "NumPy",
+        "relation_type": "ASSOCIATED_WITH",
+        "description": "Jaipur co-occurs with NumPy in document context.",
+        "weight": 0.8,
+        "evidence_chunks": [
+          "enterprise_brief_chunk_0"
+        ]
+      },
+      {
+        "id": "rajasthan--associated_with-->networkx",
+        "source": "Rajasthan",
+        "target": "NetworkX",
+        "relation_type": "ASSOCIATED_WITH",
+        "description": "Rajasthan co-occurs with NetworkX in document context.",
+        "weight": 0.8,
+        "evidence_chunks": [
+          "enterprise_brief_chunk_0"
+        ]
+      },
+      {
+        "id": "rajasthan--associated_with-->numpy",
+        "source": "Rajasthan",
+        "target": "NumPy",
+        "relation_type": "ASSOCIATED_WITH",
+        "description": "Rajasthan co-occurs with NumPy in document context.",
+        "weight": 0.8,
+        "evidence_chunks": [
+          "enterprise_brief_chunk_0"
+        ]
+      },
+      {
+        "id": "rajasthan--associated_with-->scikit",
+        "source": "Rajasthan",
+        "target": "Scikit",
+        "relation_type": "ASSOCIATED_WITH",
+        "description": "Rajasthan co-occurs with Scikit in document context.",
+        "weight": 0.8,
+        "evidence_chunks": [
+          "enterprise_brief_chunk_0"
+        ]
+      },
+      {
+        "id": "networkx--associated_with-->numpy",
+        "source": "NetworkX",
+        "target": "NumPy",
+        "relation_type": "ASSOCIATED_WITH",
+        "description": "NetworkX co-occurs with NumPy in document context.",
+        "weight": 0.8,
+        "evidence_chunks": [
+          "enterprise_brief_chunk_0"
+        ]
+      },
+      {
+        "id": "networkx--associated_with-->scikit",
+        "source": "NetworkX",
+        "target": "Scikit",
+        "relation_type": "ASSOCIATED_WITH",
+        "description": "NetworkX co-occurs with Scikit in document context.",
+        "weight": 0.8,
+        "evidence_chunks": [
+          "enterprise_brief_chunk_0"
+        ]
+      },
+      {
+        "id": "networkx--associated_with-->generative_ai",
+        "source": "NetworkX",
+        "target": "Generative AI",
+        "relation_type": "ASSOCIATED_WITH",
+        "description": "NetworkX co-occurs with Generative AI in document context.",
+        "weight": 0.8,
+        "evidence_chunks": [
+          "enterprise_brief_chunk_0"
+        ]
+      },
+      {
+        "id": "numpy--associated_with-->scikit",
+        "source": "NumPy",
+        "target": "Scikit",
+        "relation_type": "ASSOCIATED_WITH",
+        "description": "NumPy co-occurs with Scikit in document context.",
+        "weight": 0.8,
+        "evidence_chunks": [
+          "enterprise_brief_chunk_0"
+        ]
+      },
+      {
+        "id": "numpy--associated_with-->generative_ai",
+        "source": "NumPy",
+        "target": "Generative AI",
+        "relation_type": "ASSOCIATED_WITH",
+        "description": "NumPy co-occurs with Generative AI in document context.",
+        "weight": 0.8,
+        "evidence_chunks": [
+          "enterprise_brief_chunk_0"
+        ]
+      },
+      {
+        "id": "numpy--associated_with-->ai",
+        "source": "NumPy",
+        "target": "AI",
+        "relation_type": "ASSOCIATED_WITH",
+        "description": "NumPy co-occurs with AI in document context.",
+        "weight": 0.8,
+        "evidence_chunks": [
+          "enterprise_brief_chunk_0"
+        ]
+      },
+      {
+        "id": "scikit--associated_with-->generative_ai",
+        "source": "Scikit",
+        "target": "Generative AI",
+        "relation_type": "ASSOCIATED_WITH",
+        "description": "Scikit co-occurs with Generative AI in document context.",
+        "weight": 0.8,
+        "evidence_chunks": [
+          "enterprise_brief_chunk_0"
+        ]
+      },
+      {
+        "id": "scikit--associated_with-->ai",
+        "source": "Scikit",
+        "target": "AI",
+        "relation_type": "ASSOCIATED_WITH",
+        "description": "Scikit co-occurs with AI in document context.",
+        "weight": 0.8,
+        "evidence_chunks": [
+          "enterprise_brief_chunk_0"
+        ]
+      },
+      {
+        "id": "scikit--associated_with-->scikit_learn",
+        "source": "Scikit",
+        "target": "Scikit-learn",
+        "relation_type": "ASSOCIATED_WITH",
+        "description": "Scikit co-occurs with Scikit-learn in document context.",
+        "weight": 0.8,
+        "evidence_chunks": [
+          "enterprise_brief_chunk_0"
+        ]
+      },
+      {
+        "id": "generative_ai--associated_with-->ai",
+        "source": "Generative AI",
+        "target": "AI",
+        "relation_type": "ASSOCIATED_WITH",
+        "description": "Generative AI co-occurs with AI in document context.",
+        "weight": 0.8,
+        "evidence_chunks": [
+          "enterprise_brief_chunk_0"
+        ]
+      },
+      {
+        "id": "generative_ai--associated_with-->scikit_learn",
+        "source": "Generative AI",
+        "target": "Scikit-learn",
+        "relation_type": "ASSOCIATED_WITH",
+        "description": "Generative AI co-occurs with Scikit-learn in document context.",
+        "weight": 0.8,
+        "evidence_chunks": [
+          "enterprise_brief_chunk_0"
+        ]
+      },
+      {
+        "id": "generative_ai--associated_with-->vector",
+        "source": "Generative AI",
+        "target": "Vector",
+        "relation_type": "ASSOCIATED_WITH",
+        "description": "Generative AI co-occurs with Vector in document context.",
+        "weight": 0.8,
+        "evidence_chunks": [
+          "enterprise_brief_chunk_0"
+        ]
+      },
+      {
+        "id": "ai--associated_with-->scikit_learn",
+        "source": "AI",
+        "target": "Scikit-learn",
+        "relation_type": "ASSOCIATED_WITH",
+        "description": "AI co-occurs with Scikit-learn in document context.",
+        "weight": 0.8,
+        "evidence_chunks": [
+          "enterprise_brief_chunk_0"
+        ]
+      },
+      {
+        "id": "ai--associated_with-->vector",
+        "source": "AI",
+        "target": "Vector",
+        "relation_type": "ASSOCIATED_WITH",
+        "description": "AI co-occurs with Vector in document context.",
+        "weight": 0.8,
+        "evidence_chunks": [
+          "enterprise_brief_chunk_0"
+        ]
+      },
+      {
+        "id": "scikit_learn--associated_with-->vector",
+        "source": "Scikit-learn",
+        "target": "Vector",
+        "relation_type": "ASSOCIATED_WITH",
+        "description": "Scikit-learn co-occurs with Vector in document context.",
+        "weight": 0.8,
+        "evidence_chunks": [
+          "enterprise_brief_chunk_0"
+        ]
+      },
+      {
+        "id": "nexus--associated_with-->google_gemini",
+        "source": "Nexus",
+        "target": "Google Gemini",
+        "relation_type": "ASSOCIATED_WITH",
+        "description": "Nexus co-occurs with Google Gemini in document context.",
+        "weight": 0.8,
+        "evidence_chunks": [
+          "enterprise_brief_chunk_1"
+        ]
+      },
+      {
+        "id": "nexus--associated_with-->flash_llm",
+        "source": "Nexus",
+        "target": "Flash LLM",
+        "relation_type": "ASSOCIATED_WITH",
+        "description": "Nexus co-occurs with Flash LLM in document context.",
+        "weight": 0.8,
+        "evidence_chunks": [
+          "enterprise_brief_chunk_1"
+        ]
+      },
+      {
+        "id": "graphrag--associated_with-->google_gemini",
+        "source": "GraphRAG",
+        "target": "Google Gemini",
+        "relation_type": "ASSOCIATED_WITH",
+        "description": "GraphRAG co-occurs with Google Gemini in document context.",
+        "weight": 0.8,
+        "evidence_chunks": [
+          "enterprise_brief_chunk_1"
+        ]
+      },
+      {
+        "id": "graphrag--associated_with-->flash_llm",
+        "source": "GraphRAG",
+        "target": "Flash LLM",
+        "relation_type": "ASSOCIATED_WITH",
+        "description": "GraphRAG co-occurs with Flash LLM in document context.",
+        "weight": 0.8,
+        "evidence_chunks": [
+          "enterprise_brief_chunk_1"
+        ]
+      },
+      {
+        "id": "graphrag--associated_with-->llm",
+        "source": "GraphRAG",
+        "target": "LLM",
+        "relation_type": "ASSOCIATED_WITH",
+        "description": "GraphRAG co-occurs with LLM in document context.",
+        "weight": 0.8,
+        "evidence_chunks": [
+          "enterprise_brief_chunk_1"
+        ]
+      },
+      {
+        "id": "google_gemini--associated_with-->flash_llm",
+        "source": "Google Gemini",
+        "target": "Flash LLM",
+        "relation_type": "ASSOCIATED_WITH",
+        "description": "Google Gemini co-occurs with Flash LLM in document context.",
+        "weight": 0.8,
+        "evidence_chunks": [
+          "enterprise_brief_chunk_1"
+        ]
+      },
+      {
+        "id": "google_gemini--associated_with-->llm",
+        "source": "Google Gemini",
+        "target": "LLM",
+        "relation_type": "ASSOCIATED_WITH",
+        "description": "Google Gemini co-occurs with LLM in document context.",
+        "weight": 0.8,
+        "evidence_chunks": [
+          "enterprise_brief_chunk_1"
+        ]
+      },
+      {
+        "id": "google_gemini--associated_with-->gemini",
+        "source": "Google Gemini",
+        "target": "Gemini",
+        "relation_type": "ASSOCIATED_WITH",
+        "description": "Google Gemini co-occurs with Gemini in document context.",
+        "weight": 0.8,
+        "evidence_chunks": [
+          "enterprise_brief_chunk_1"
+        ]
+      },
+      {
+        "id": "flash_llm--associated_with-->llm",
+        "source": "Flash LLM",
+        "target": "LLM",
+        "relation_type": "ASSOCIATED_WITH",
+        "description": "Flash LLM co-occurs with LLM in document context.",
+        "weight": 0.8,
+        "evidence_chunks": [
+          "enterprise_brief_chunk_1"
+        ]
+      },
+      {
+        "id": "flash_llm--associated_with-->gemini",
+        "source": "Flash LLM",
+        "target": "Gemini",
+        "relation_type": "ASSOCIATED_WITH",
+        "description": "Flash LLM co-occurs with Gemini in document context.",
+        "weight": 0.8,
+        "evidence_chunks": [
+          "enterprise_brief_chunk_1"
+        ]
+      },
+      {
+        "id": "flash_llm--associated_with-->louvain",
+        "source": "Flash LLM",
+        "target": "Louvain",
+        "relation_type": "ASSOCIATED_WITH",
+        "description": "Flash LLM co-occurs with Louvain in document context.",
+        "weight": 0.8,
+        "evidence_chunks": [
+          "enterprise_brief_chunk_1"
+        ]
+      },
+      {
+        "id": "llm--associated_with-->gemini",
+        "source": "LLM",
+        "target": "Gemini",
+        "relation_type": "ASSOCIATED_WITH",
+        "description": "LLM co-occurs with Gemini in document context.",
+        "weight": 0.8,
+        "evidence_chunks": [
+          "enterprise_brief_chunk_1"
+        ]
+      },
+      {
+        "id": "llm--associated_with-->louvain",
+        "source": "LLM",
+        "target": "Louvain",
+        "relation_type": "ASSOCIATED_WITH",
+        "description": "LLM co-occurs with Louvain in document context.",
+        "weight": 0.8,
+        "evidence_chunks": [
+          "enterprise_brief_chunk_1"
+        ]
+      },
+      {
+        "id": "gemini--associated_with-->louvain",
+        "source": "Gemini",
+        "target": "Louvain",
+        "relation_type": "ASSOCIATED_WITH",
+        "description": "Gemini co-occurs with Louvain in document context.",
+        "weight": 0.8,
+        "evidence_chunks": [
+          "enterprise_brief_chunk_1"
+        ]
+      },
+      {
+        "id": "nexus--associated_with-->local_retrieval",
+        "source": "Nexus",
+        "target": "Local Retrieval",
+        "relation_type": "ASSOCIATED_WITH",
+        "description": "Nexus co-occurs with Local Retrieval in document context.",
+        "weight": 0.8,
+        "evidence_chunks": [
+          "enterprise_brief_chunk_2"
+        ]
+      },
+      {
+        "id": "nexus--associated_with-->focuses",
+        "source": "Nexus",
+        "target": "Focuses",
+        "relation_type": "ASSOCIATED_WITH",
+        "description": "Nexus co-occurs with Focuses in document context.",
+        "weight": 0.8,
+        "evidence_chunks": [
+          "enterprise_brief_chunk_2"
+        ]
+      },
+      {
+        "id": "graphrag--associated_with-->local_retrieval",
+        "source": "GraphRAG",
+        "target": "Local Retrieval",
+        "relation_type": "ASSOCIATED_WITH",
+        "description": "GraphRAG co-occurs with Local Retrieval in document context.",
+        "weight": 0.8,
+        "evidence_chunks": [
+          "enterprise_brief_chunk_2"
+        ]
+      },
+      {
+        "id": "graphrag--associated_with-->focuses",
+        "source": "GraphRAG",
+        "target": "Focuses",
+        "relation_type": "ASSOCIATED_WITH",
+        "description": "GraphRAG co-occurs with Focuses in document context.",
+        "weight": 0.8,
+        "evidence_chunks": [
+          "enterprise_brief_chunk_2"
+        ]
+      },
+      {
+        "id": "graphrag--associated_with-->global_retrieval",
+        "source": "GraphRAG",
+        "target": "Global Retrieval",
+        "relation_type": "ASSOCIATED_WITH",
+        "description": "GraphRAG co-occurs with Global Retrieval in document context.",
+        "weight": 0.8,
+        "evidence_chunks": [
+          "enterprise_brief_chunk_2"
+        ]
+      },
+      {
+        "id": "local_retrieval--associated_with-->focuses",
+        "source": "Local Retrieval",
+        "target": "Focuses",
+        "relation_type": "ASSOCIATED_WITH",
+        "description": "Local Retrieval co-occurs with Focuses in document context.",
+        "weight": 0.8,
+        "evidence_chunks": [
+          "enterprise_brief_chunk_2"
+        ]
+      },
+      {
+        "id": "local_retrieval--associated_with-->global_retrieval",
+        "source": "Local Retrieval",
+        "target": "Global Retrieval",
+        "relation_type": "ASSOCIATED_WITH",
+        "description": "Local Retrieval co-occurs with Global Retrieval in document context.",
+        "weight": 0.8,
+        "evidence_chunks": [
+          "enterprise_brief_chunk_2"
+        ]
+      },
+      {
+        "id": "local_retrieval--associated_with-->synthesizes",
+        "source": "Local Retrieval",
+        "target": "Synthesizes",
+        "relation_type": "ASSOCIATED_WITH",
+        "description": "Local Retrieval co-occurs with Synthesizes in document context.",
+        "weight": 0.8,
+        "evidence_chunks": [
+          "enterprise_brief_chunk_2"
+        ]
+      },
+      {
+        "id": "focuses--associated_with-->global_retrieval",
+        "source": "Focuses",
+        "target": "Global Retrieval",
+        "relation_type": "ASSOCIATED_WITH",
+        "description": "Focuses co-occurs with Global Retrieval in document context.",
+        "weight": 0.8,
+        "evidence_chunks": [
+          "enterprise_brief_chunk_2"
+        ]
+      },
+      {
+        "id": "focuses--associated_with-->synthesizes",
+        "source": "Focuses",
+        "target": "Synthesizes",
+        "relation_type": "ASSOCIATED_WITH",
+        "description": "Focuses co-occurs with Synthesizes in document context.",
+        "weight": 0.8,
+        "evidence_chunks": [
+          "enterprise_brief_chunk_2"
+        ]
+      },
+      {
+        "id": "focuses--associated_with-->hybrid_retrieval",
+        "source": "Focuses",
+        "target": "Hybrid Retrieval",
+        "relation_type": "ASSOCIATED_WITH",
+        "description": "Focuses co-occurs with Hybrid Retrieval in document context.",
+        "weight": 0.8,
+        "evidence_chunks": [
+          "enterprise_brief_chunk_2"
+        ]
+      },
+      {
+        "id": "global_retrieval--associated_with-->synthesizes",
+        "source": "Global Retrieval",
+        "target": "Synthesizes",
+        "relation_type": "ASSOCIATED_WITH",
+        "description": "Global Retrieval co-occurs with Synthesizes in document context.",
+        "weight": 0.8,
+        "evidence_chunks": [
+          "enterprise_brief_chunk_2"
+        ]
+      },
+      {
+        "id": "global_retrieval--associated_with-->hybrid_retrieval",
+        "source": "Global Retrieval",
+        "target": "Hybrid Retrieval",
+        "relation_type": "ASSOCIATED_WITH",
+        "description": "Global Retrieval co-occurs with Hybrid Retrieval in document context.",
+        "weight": 0.8,
+        "evidence_chunks": [
+          "enterprise_brief_chunk_2"
+        ]
+      },
+      {
+        "id": "global_retrieval--associated_with-->uses_reciprocal_rank_fusion",
+        "source": "Global Retrieval",
+        "target": "Uses Reciprocal Rank Fusion",
+        "relation_type": "ASSOCIATED_WITH",
+        "description": "Global Retrieval co-occurs with Uses Reciprocal Rank Fusion in document context.",
+        "weight": 0.8,
+        "evidence_chunks": [
+          "enterprise_brief_chunk_2"
+        ]
+      },
+      {
+        "id": "synthesizes--associated_with-->hybrid_retrieval",
+        "source": "Synthesizes",
+        "target": "Hybrid Retrieval",
+        "relation_type": "ASSOCIATED_WITH",
+        "description": "Synthesizes co-occurs with Hybrid Retrieval in document context.",
+        "weight": 0.8,
+        "evidence_chunks": [
+          "enterprise_brief_chunk_2"
+        ]
+      },
+      {
+        "id": "synthesizes--associated_with-->uses_reciprocal_rank_fusion",
+        "source": "Synthesizes",
+        "target": "Uses Reciprocal Rank Fusion",
+        "relation_type": "ASSOCIATED_WITH",
+        "description": "Synthesizes co-occurs with Uses Reciprocal Rank Fusion in document context.",
+        "weight": 0.8,
+        "evidence_chunks": [
+          "enterprise_brief_chunk_2"
+        ]
+      },
+      {
+        "id": "synthesizes--associated_with-->rrf",
+        "source": "Synthesizes",
+        "target": "RRF",
+        "relation_type": "ASSOCIATED_WITH",
+        "description": "Synthesizes co-occurs with RRF in document context.",
+        "weight": 0.8,
+        "evidence_chunks": [
+          "enterprise_brief_chunk_2"
+        ]
+      },
+      {
+        "id": "hybrid_retrieval--associated_with-->uses_reciprocal_rank_fusion",
+        "source": "Hybrid Retrieval",
+        "target": "Uses Reciprocal Rank Fusion",
+        "relation_type": "ASSOCIATED_WITH",
+        "description": "Hybrid Retrieval co-occurs with Uses Reciprocal Rank Fusion in document context.",
+        "weight": 0.8,
+        "evidence_chunks": [
+          "enterprise_brief_chunk_2"
+        ]
+      },
+      {
+        "id": "hybrid_retrieval--associated_with-->bm25",
+        "source": "Hybrid Retrieval",
+        "target": "BM25",
+        "relation_type": "ASSOCIATED_WITH",
+        "description": "Hybrid Retrieval co-occurs with BM25 in document context.",
+        "weight": 0.8,
+        "evidence_chunks": [
+          "enterprise_brief_chunk_2"
+        ]
+      },
+      {
+        "id": "uses_reciprocal_rank_fusion--associated_with-->rrf",
+        "source": "Uses Reciprocal Rank Fusion",
+        "target": "RRF",
+        "relation_type": "ASSOCIATED_WITH",
+        "description": "Uses Reciprocal Rank Fusion co-occurs with RRF in document context.",
+        "weight": 0.8,
+        "evidence_chunks": [
+          "enterprise_brief_chunk_2"
+        ]
+      },
+      {
+        "id": "uses_reciprocal_rank_fusion--associated_with-->bm25",
+        "source": "Uses Reciprocal Rank Fusion",
+        "target": "BM25",
+        "relation_type": "ASSOCIATED_WITH",
+        "description": "Uses Reciprocal Rank Fusion co-occurs with BM25 in document context.",
+        "weight": 0.8,
+        "evidence_chunks": [
+          "enterprise_brief_chunk_2"
+        ]
+      },
+      {
+        "id": "rrf--associated_with-->bm25",
+        "source": "RRF",
+        "target": "BM25",
+        "relation_type": "ASSOCIATED_WITH",
+        "description": "RRF co-occurs with BM25 in document context.",
+        "weight": 0.8,
+        "evidence_chunks": [
+          "enterprise_brief_chunk_2"
+        ]
+      },
+      {
+        "id": "nexus--associated_with-->rag",
+        "source": "Nexus",
+        "target": "RAG",
+        "relation_type": "ASSOCIATED_WITH",
+        "description": "Nexus co-occurs with RAG in document context.",
+        "weight": 0.8,
+        "evidence_chunks": [
+          "enterprise_brief_chunk_3"
+        ]
+      },
+      {
+        "id": "graphrag--associated_with-->rag",
+        "source": "GraphRAG",
+        "target": "RAG",
+        "relation_type": "ASSOCIATED_WITH",
+        "description": "GraphRAG co-occurs with RAG in document context.",
+        "weight": 0.8,
+        "evidence_chunks": [
+          "enterprise_brief_chunk_3"
+        ]
+      },
+      {
+        "id": "evalguard_ai--associated_with-->rag",
+        "source": "EvalGuard AI",
+        "target": "RAG",
+        "relation_type": "ASSOCIATED_WITH",
+        "description": "EvalGuard AI co-occurs with RAG in document context.",
+        "weight": 0.8,
+        "evidence_chunks": [
+          "enterprise_brief_chunk_3"
+        ]
+      },
+      {
+        "id": "evalguard_ai--associated_with-->ai",
+        "source": "EvalGuard AI",
+        "target": "AI",
+        "relation_type": "ASSOCIATED_WITH",
+        "description": "EvalGuard AI co-occurs with AI in document context.",
+        "weight": 0.8,
+        "evidence_chunks": [
+          "enterprise_brief_chunk_3"
+        ]
+      },
+      {
+        "id": "evalguard_ai--associated_with-->synthotab",
+        "source": "EvalGuard AI",
+        "target": "SynthoTab",
+        "relation_type": "ASSOCIATED_WITH",
+        "description": "EvalGuard AI co-occurs with SynthoTab in document context.",
+        "weight": 0.8,
+        "evidence_chunks": [
+          "enterprise_brief_chunk_3"
+        ]
+      },
+      {
+        "id": "rag--associated_with-->ai",
+        "source": "RAG",
+        "target": "AI",
+        "relation_type": "ASSOCIATED_WITH",
+        "description": "RAG co-occurs with AI in document context.",
+        "weight": 0.8,
+        "evidence_chunks": [
+          "enterprise_brief_chunk_3"
+        ]
+      },
+      {
+        "id": "rag--associated_with-->synthotab",
+        "source": "RAG",
+        "target": "SynthoTab",
+        "relation_type": "ASSOCIATED_WITH",
+        "description": "RAG co-occurs with SynthoTab in document context.",
+        "weight": 0.8,
+        "evidence_chunks": [
+          "enterprise_brief_chunk_3"
+        ]
+      },
+      {
+        "id": "rag--associated_with-->differential_privacy",
+        "source": "RAG",
+        "target": "Differential Privacy",
+        "relation_type": "ASSOCIATED_WITH",
+        "description": "RAG co-occurs with Differential Privacy in document context.",
+        "weight": 0.8,
+        "evidence_chunks": [
+          "enterprise_brief_chunk_3"
+        ]
+      },
+      {
+        "id": "ai--associated_with-->synthotab",
+        "source": "AI",
+        "target": "SynthoTab",
+        "relation_type": "ASSOCIATED_WITH",
+        "description": "AI co-occurs with SynthoTab in document context.",
+        "weight": 0.8,
+        "evidence_chunks": [
+          "enterprise_brief_chunk_3"
+        ]
+      },
+      {
+        "id": "ai--associated_with-->differential_privacy",
+        "source": "AI",
+        "target": "Differential Privacy",
+        "relation_type": "ASSOCIATED_WITH",
+        "description": "AI co-occurs with Differential Privacy in document context.",
+        "weight": 0.8,
+        "evidence_chunks": [
+          "enterprise_brief_chunk_3"
+        ]
+      },
+      {
+        "id": "ai--associated_with-->html",
+        "source": "AI",
+        "target": "HTML",
+        "relation_type": "ASSOCIATED_WITH",
+        "description": "AI co-occurs with HTML in document context.",
+        "weight": 0.8,
+        "evidence_chunks": [
+          "enterprise_brief_chunk_3"
+        ]
+      },
+      {
+        "id": "synthotab--associated_with-->differential_privacy",
+        "source": "SynthoTab",
+        "target": "Differential Privacy",
+        "relation_type": "ASSOCIATED_WITH",
+        "description": "SynthoTab co-occurs with Differential Privacy in document context.",
+        "weight": 0.8,
+        "evidence_chunks": [
+          "enterprise_brief_chunk_3"
+        ]
+      },
+      {
+        "id": "synthotab--associated_with-->html",
+        "source": "SynthoTab",
+        "target": "HTML",
+        "relation_type": "ASSOCIATED_WITH",
+        "description": "SynthoTab co-occurs with HTML in document context.",
+        "weight": 0.8,
+        "evidence_chunks": [
+          "enterprise_brief_chunk_3"
+        ]
+      },
+      {
+        "id": "differential_privacy--associated_with-->html",
+        "source": "Differential Privacy",
+        "target": "HTML",
+        "relation_type": "ASSOCIATED_WITH",
+        "description": "Differential Privacy co-occurs with HTML in document context.",
+        "weight": 0.8,
+        "evidence_chunks": [
+          "enterprise_brief_chunk_3"
+        ]
+      }
+    ]
+  },
+  "chunks": [
+    {
+      "id": "enterprise_brief_chunk_0",
+      "text": "Nexus-GraphRAG is an open-source Python framework developed by Nitesh Beniwal in Jaipur, Rajasthan. It bridges the gap between unstructured document collections and structured graph reasoning. The architecture combines NetworkX, NumPy, and Scikit-learn algorithms with modern Generative AI pipelines. Traditional vector databases struggle with holistic questions and multi-hop relationships.",
+      "chunk_index": 0,
+      "metadata": {
+        "doc_id": "enterprise_brief"
+      },
+      "token_count": 48
+    },
+    {
+      "id": "enterprise_brief_chunk_1",
+      "text": "Nexus-GraphRAG solves this by implementing dual-mode extraction: a 100% offline deterministic extractor\nand an optional Google Gemini 2.0 Flash LLM extractor. The engine segments documents into overlapping chunks, discovers entities, and builds typed relational edges. Once the knowledge graph is constructed, Louvain modularity partitions interconnected nodes into semantic communities.",
+      "chunk_index": 1,
+      "metadata": {
+        "doc_id": "enterprise_brief"
+      },
+      "token_count": 49
+    },
+    {
+      "id": "enterprise_brief_chunk_2",
+      "text": "Nexus-GraphRAG supports three retrieval modes:\n1. Local Retrieval: Focuses on entity ego-networks and multi-hop path traversal. 2. Global Retrieval: Synthesizes high-level thematic abstracts across community clusters. 3. Hybrid Retrieval: Uses Reciprocal Rank Fusion (RRF) to blend local paths, community summaries, and BM25 chunk evidence.",
+      "chunk_index": 2,
+      "metadata": {
+        "doc_id": "enterprise_brief"
+      },
+      "token_count": 44
+    },
+    {
+      "id": "enterprise_brief_chunk_3",
+      "text": "Nexus-GraphRAG integrates with EvalGuard AI to evaluate RAG faithfulness, answer relevance, and context recall. It also pairs with SynthoTab for privacy-preserving synthetic dataset generation using Differential Privacy. Finally, Nexus-GraphRAG exports standalone, responsive dark-mode HTML reports with interactive force graphs.",
+      "chunk_index": 3,
+      "metadata": {
+        "doc_id": "enterprise_brief"
+      },
+      "token_count": 39
+    }
+  ],
+  "communities": [
+    {
+      "id": "comm_0",
+      "level": 0,
+      "title": "AI, SynthoTab & Related Systems",
+      "summary": "Knowledge cluster containing 5 entities centered on AI, SynthoTab, HTML. AI co-occurs with SynthoTab in document context. AI co-occurs with HTML in document context. RAG co-occurs with AI in document context.",
+      "member_entities": [
+        "AI",
+        "SynthoTab",
+        "HTML",
+        "RAG",
+        "Differential Privacy"
+      ],
+      "findings": [
+        "AI co-occurs with SynthoTab in document context.",
+        "AI co-occurs with HTML in document context.",
+        "RAG co-occurs with AI in document context.",
+        "AI co-occurs with Differential Privacy in document context."
+      ],
+      "weight": 5.0
+    },
+    {
+      "id": "comm_1",
+      "level": 0,
+      "title": "EvalGuard AI, Python & Related Systems",
+      "summary": "Knowledge cluster containing 6 entities centered on EvalGuard AI, Python, Nitesh Beniwal. GraphRAG integrates with EvalGuard AI. Nexus integrates with EvalGuard AI. Nitesh Beniwal developed by Python.",
+      "member_entities": [
+        "EvalGuard AI",
+        "Python",
+        "Nitesh Beniwal",
+        "Jaipur",
+        "GraphRAG",
+        "Nexus"
+      ],
+      "findings": [
+        "GraphRAG integrates with EvalGuard AI.",
+        "Nexus integrates with EvalGuard AI.",
+        "Nitesh Beniwal developed by Python.",
+        "Jaipur developed by Python."
+      ],
+      "weight": 6.0
+    },
+    {
+      "id": "comm_2",
+      "level": 0,
+      "title": "Scikit, Rajasthan & Related Systems",
+      "summary": "Knowledge cluster containing 7 entities centered on Scikit, Rajasthan, NumPy. Scikit co-occurs with Scikit-learn in document context. Rajasthan co-occurs with Scikit in document context. NumPy co-occurs with Scikit in document context.",
+      "member_entities": [
+        "Scikit",
+        "Rajasthan",
+        "NumPy",
+        "Scikit-learn",
+        "Vector",
+        "Generative AI",
+        "NetworkX"
+      ],
+      "findings": [
+        "Scikit co-occurs with Scikit-learn in document context.",
+        "Rajasthan co-occurs with Scikit in document context.",
+        "NumPy co-occurs with Scikit in document context.",
+        "Rajasthan co-occurs with NumPy in document context."
+      ],
+      "weight": 7.0
+    },
+    {
+      "id": "comm_3",
+      "level": 0,
+      "title": "LLM, Louvain & Related Systems",
+      "summary": "Knowledge cluster containing 5 entities centered on LLM, Louvain, Google Gemini. LLM co-occurs with Louvain in document context. Google Gemini co-occurs with LLM in document context. Flash LLM co-occurs with LLM in document context.",
+      "member_entities": [
+        "LLM",
+        "Louvain",
+        "Google Gemini",
+        "Flash LLM",
+        "Gemini"
+      ],
+      "findings": [
+        "LLM co-occurs with Louvain in document context.",
+        "Google Gemini co-occurs with LLM in document context.",
+        "Flash LLM co-occurs with LLM in document context.",
+        "Flash LLM co-occurs with Louvain in document context."
+      ],
+      "weight": 5.0
+    },
+    {
+      "id": "comm_4",
+      "level": 0,
+      "title": "Global Retrieval, Local Retrieval & Related Systems",
+      "summary": "Knowledge cluster containing 8 entities centered on Global Retrieval, Local Retrieval, RRF. Local Retrieval co-occurs with Global Retrieval in document context. Global Retrieval co-occurs with Uses Reciprocal Rank Fusion in document context. Global Retrieval co-occurs with Synthesizes in document context.",
+      "member_entities": [
+        "Global Retrieval",
+        "Local Retrieval",
+        "RRF",
+        "Uses Reciprocal Rank Fusion",
+        "Focuses",
+        "BM25",
+        "Synthesizes",
+        "Hybrid Retrieval"
+      ],
+      "findings": [
+        "Local Retrieval co-occurs with Global Retrieval in document context.",
+        "Global Retrieval co-occurs with Uses Reciprocal Rank Fusion in document context.",
+        "Global Retrieval co-occurs with Synthesizes in document context.",
+        "Global Retrieval co-occurs with Hybrid Retrieval in document context."
+      ],
+      "weight": 8.0
+    }
+  ]
+}

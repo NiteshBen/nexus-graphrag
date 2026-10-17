@@ -1,0 +1,66 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "nexus-graphrag"
+version = "0.1.0"
+description = "Production-grade local knowledge graph construction, community detection & hybrid RAG retrieval engine in Python"
+readme = "README.md"
+requires-python = ">=3.9"
+license = {text = "MIT"}
+authors = [
+    {name = "Nitesh Beniwal", email = "niteshben01@gmail.com"}
+]
+keywords = [
+    "graphrag",
+    "knowledge-graph",
+    "retrieval-augmented-generation",
+    "rag",
+    "generative-ai",
+    "llm",
+    "multi-hop-reasoning",
+    "community-detection",
+    "louvain",
+    "pagerank",
+    "networkx",
+    "hybrid-search",
+    "bm25",
+    "python"
+]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Developers",
+    "Intended Audience :: Science/Research",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+    "Topic :: Information Theory"
+]
+dependencies = [
+    "networkx>=3.0",
+    "numpy>=1.22.0"
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.0.0",
+    "pytest-cov>=4.0.0"
+]
+llm = [
+    "google-genai>=0.1.0",
+    "openai>=1.0.0"
+]
+
+[project.scripts]
+nexus-graphrag = "nexus_graphrag.cli:main"
+
+[project.urls]
+Homepage = "https://github.com/NiteshBen/nexus-graphrag"
+Repository = "https://github.com/NiteshBen/nexus-graphrag"
+Issues = "https://github.com/NiteshBen/nexus-graphrag/issues"
